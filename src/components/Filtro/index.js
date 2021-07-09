@@ -21,7 +21,7 @@ const Filtro = () =>{
 
             <h1 className="maintitle">Iniciativas de Inclusão de Mulheres em Programação</h1>
        
-             {inicgit iativas.map(iniciativa=> (
+             {iniciativas.map(iniciativa=> (
                 <div className="flex" key={iniciativa.id}>
                    <ul className="cards">
                        <li>{iniciativa.id}</li>
