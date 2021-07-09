@@ -1,0 +1,36 @@
+.titulo{
+    color: #F5DEB3;
+    margin-top: 1.5em;
+    margin-left: 2px;
+    font-weight: normal;
+}
+
+.main-menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.menu {
+    display: flex;
+    margin-top: 1.5rem;
+    text-transform: uppercase;
+}
+
+.link:hover {
+    color: white;
+}
+
+.menu li {
+    margin-left: 4rem;
+    list-style: none;
+}
+
+
+@media (max-width:768px){
+    .menu {
+        margin: 2rem;
+        display: flex;
+        justify-content: flex-start;
+    }
+}
