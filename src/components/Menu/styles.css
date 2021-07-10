@@ -29,8 +29,25 @@
 
 @media (max-width:768px){
     .menu {
+        font-size: 8px;
         margin: 2rem;
-        display: flex;
         justify-content: flex-start;
     }
+
+    .main-menu {
+        margin-left: 3px;
+    }
+}
+
+@media (max-width:425px){
+    .menu {
+        font-size: 8px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .main-menu {
+        font-size: 8px;
+    }
+
 }

@@ -3,4 +3,4 @@
 
 ## Neste projeto foi usada a tecnologia de React com useEffect e useState, JSX e CSS para estilização.
 
-
+### Este projeto pode ser visualizado no:              (deploy Netlify)

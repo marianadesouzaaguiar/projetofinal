@@ -43,6 +43,11 @@ li{
 }
 
 @media (max-width:768px) {
+
+	.maintitle {
+		text-align: center;
+	}
+
     .divmae {
 		display: flex;
 		flex-direction:column;
@@ -53,30 +58,6 @@ li{
 		background-color: #F5DEB3;
 	}
 
-	.divmae h1 {
-    font-size: 12px;
-	line-height: 1.5;
-	font-weight: 900;
-    color: #674582;
-	width:50%;
-	}
-
-	.divmae p {
-		margin-top: 20px;
-		font-size: 24px;
-		line-height: 34px;
-		color: #674582;
-	
-	}
-
-	.divmae img {
-		margin-top: 4rem;
-		width: 100%;
-		max-width: 1100px;
-		height: 100%;
-		max-height: 680px;
-		align-items: center;
-	}
 }
 
 
