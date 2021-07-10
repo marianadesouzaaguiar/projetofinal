@@ -15,12 +15,12 @@ const Footer = () => {
 
         <div className="social-media">
 
-        <a href="https://www.linkedin.com/in/marianadesouzaaguiar/" target="_blank" >
+        <a href="https://www.linkedin.com/in/marianadesouzaaguiar/" rel="noreferrer" target="_blank" >
         <img src={Img3} alt="Imagem do logo do Linkedin" width="30px" height="30px"/>
         </a>
                 
 
-        <a href="https://github.com/marianadesouzaaguiar/" target="_blank" >
+        <a href="https://github.com/marianadesouzaaguiar/" rel="noreferrer" target="_blank" >
             <img src={Img2} alt="Imagem do logo do Github" width="30px" height="30px" />
         </a>
         
