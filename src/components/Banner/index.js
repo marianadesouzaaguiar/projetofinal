@@ -9,7 +9,6 @@ import "./styles.css"
                 <div className="background">
 
                 </div>
-
                 
                 <div className="main">
                 
